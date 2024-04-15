@@ -4,7 +4,14 @@
 ##
 
 ## 📧 Emails:
-eduardodejesus023@hotmail.com / eduardodejesusmoreira023@gmail.com
+
+<a href="mailto:thiagodejesus09@outlook.com">
+  <img src="https://camo.githubusercontent.com/f7127b0e4bc56188991270f875d7602019213ce6dd1ccaf783760844b1e44a41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f75746c6f6f6b2d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=white" style="max-width: 100%;">
+ </a>
+<br>
+<a href="mailto:eduardodejesusmoreira023@gmail.com">
+  <img src="https://camo.githubusercontent.com/71a0f4bfcf1f2220e2b1c246ac2ee681c47ee914d1c1f0e27a0e6c9ac2e9f134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+ </a>
 
 
 ## 🌐 Socials:
