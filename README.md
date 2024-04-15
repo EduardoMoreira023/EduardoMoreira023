@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🌍 Hello World!<br><br>🔭 Atualmente estrou trabalhando com Infra e Suporte de T.I. em geral, tanto físico quanto remoto.<br><br>👯 Estou procurando colaborar com minha equipe nos processos de nosso dia a dia.<br><br>🌱 Atualmente estou aprendendo a linguagem de programação JAVA!<br><br>⚡ Em um breve futuro espero estar desenvolvendo em JAVA e aprimorando meus conhecimentos em diversas tecnologias, linguagens e afins!<br><br>
 
 ## 📧 Emails:
