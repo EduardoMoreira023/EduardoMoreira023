@@ -5,7 +5,7 @@
 
 ## 📧 Emails:
 
-<a href="mailto:thiagodejesus09@outlook.com">
+<a href="mailto:eduardodejesus023@hotmail.com">
   <img src="https://camo.githubusercontent.com/f7127b0e4bc56188991270f875d7602019213ce6dd1ccaf783760844b1e44a41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f75746c6f6f6b2d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=white" style="max-width: 100%;">
  </a>
 <br>
