@@ -5,15 +5,9 @@
 
 ## 📧 Emails:
 
-<a href="mailto:eduardodejesus023@hotmail.com">
- 
- </a>
-
-<br>
-   
-<a href="mailto:eduardodejesusmoreira023@gmail.com">
-  <img 
- </a>
+eduardodejesus023@hotmail.com"
+eduardodejesusmoreira023@gmail.com"
+  
 
 
 ## 🌐 Socials:
