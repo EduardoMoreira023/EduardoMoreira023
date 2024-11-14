@@ -5,8 +5,8 @@
 
 ## 📧 Emails:
 
-eduardodejesus023@hotmail.com"
-eduardodejesusmoreira023@gmail.com"
+📨 eduardodejesus023@hotmail.com |
+📨 eduardodejesusmoreira023@gmail.com
   
 
 
